@@ -1,5 +1,3 @@
-# Toptal Screening Project
-
 ## Introduction
 
 Task is done in Python programming language and flask framework. For database in this project I used sqlite (by default db will be created in file `db.sqlite3` in the root of project. Besides Python and flask I used some python libraries and all of them are written in file requirements.txt in root of this project. The most important ones are:
